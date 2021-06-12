@@ -65,5 +65,4 @@ GitHub: https://github.com/sarawrmas
 Email: sara.m.adamski@gmail.com
 
 ## Credits
-Front-End: The Coding Bootcamp at UT Austin  
-Back-End: Sara Adamski
+Sara Adamski
