@@ -23,7 +23,10 @@ This application was built using:
 ## Installation
 1. **Copy Link:** Hit the "Code" button within this GitHub repo to copy link.
 1. **Clone:** Use the command "git clone *paste link here*".
-1. **NPM:** Run the command "npm init -y" to install Node Package Manager and dependencies.
+1. **NPM:** Run the command "npm install" to install Node Package Manager and the following dependencies from the package.json file:
+* inquirer
+* MySQL2
+* console.table
 1. **MySql:**
 * In integrated terminal, use "mysql -u *username* -p"
 * Enter your MySQL password to login
