@@ -34,7 +34,6 @@ This application was built using:
     * 'source db/db.sql'
     * 'source db/schema.sql'
     * 'source db/seeds.sql'
-* 'quit;' to return to main terminal
 
 ## Usage
 After following installation instructions, navigate to your integrated terminal and begin the prompt using the command 'npm start' or 'node index.js.'
